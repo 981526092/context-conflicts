@@ -1,0 +1,10 @@
+# Local models
+torch>=2.3.0
+transformers>=4.51.0
+accelerate>=0.33.0
+# Conv-FinRe dataset
+datasets>=2.14.0
+# API backends (install the ones you use)
+openai>=1.0.0
+anthropic[bedrock]>=0.40.0
+boto3>=1.34.0
